@@ -1,0 +1,22 @@
+{
+  "name": "edpx-ub-ria",
+  "version": "0.0.1",
+  "description": "edpx-ub-ria ===========",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "edp-core": "~1.0.5",
+    "ub-ria-tool": "~0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ecomfe/edpx-ub-ria.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecomfe/edpx-ub-ria/issues"
+  },
+  "homepage": "https://github.com/ecomfe/edpx-ub-ria"
+}
