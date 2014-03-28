@@ -1,18 +1,18 @@
 /***************************************************************************
- * 
+ *
  * Copyright (c) 2014 Baidu.com, Inc. All Rights Reserved
- * $Id$ 
- * 
+ * $Id$
+ *
  **************************************************************************/
- 
- 
- 
+
+
+
 /**
  * config.js ~ 2014/03/25 11:16:53
  * @author leeight(liyubei@baidu.com)
- * @version $Revision$ 
- * @description 
- *  
+ * @version $Revision$
+ * @description
+ *
  **/
 
 /**
@@ -51,7 +51,7 @@ cli.main = function ( args, opts ) {
     catch( ex ) {
         edp.log.error( ex.toString() );
     }
-}
+};
 
 exports.cli = cli;
 
