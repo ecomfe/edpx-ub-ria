@@ -1,12 +1,12 @@
 {
   "name": "edpx-ub-ria",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "edpx-ub-ria ===========",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "edp-core": "~1.0.5",
+    "edp-core": "~1.0.12",
     "ub-ria-tool": "~0.8.0"
   },
   "repository": {
